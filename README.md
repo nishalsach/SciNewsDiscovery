@@ -8,6 +8,12 @@ Science and technology journalists today face challenges in finding newsworthy l
 
 You can find the ACM version of our paper [here](https://doi.org/10.1145/3637419) and the preprint version is available [here](https://arxiv.org/abs/2311.06864).
 
+## User Interface
+
+This is what the UI looks like ...
+
+This is what the UI can do ...
+
 ## Data
 
 We crawled ...
