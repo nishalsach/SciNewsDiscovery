@@ -1,4 +1,4 @@
-# Understanding Practices around Computational News Discovery Tools in the Domain of Science Journalism
+# Computational News Discovery in Science Journalism
 
 ### Abstract
 
